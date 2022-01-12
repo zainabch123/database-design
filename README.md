@@ -52,3 +52,9 @@ At first glance, there are two obvious candidates for entities: *Customers* and 
 Let’s then consider a scenario where a customer is booking a viewing as a gift for her husband; she wants the ticket to be in his name, but wants to provide her own contact information so she can surprise him. Does it make sense that the Customer should have a name of "John Smith" but the email address on that entity refers to "jane.smith@gmail.com"?
 
 With this, we can see a third entity has made itself visible: *Contact*. From this one user story, we've extracted three entities!
+
+## Some user stories
+
+- *"As a customer, so I can receive my tickets, I want to provide my contact information."*
+- *"As a customer, so I can decide which movie I want to watch, I want to see a list of movies."*
+- *"As an admin, so I can manage the movies shown at the cinema, I want to update the list of movies."*
