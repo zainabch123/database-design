@@ -18,8 +18,7 @@ A local cinema wants to allow people to book tickets online to see movies that a
     - `id`, which is an auto-incrementing integer Primary Key
     - `createdAt`, which is a DateTime
     - `updatedAt`, which is a DateTime
-<br/>
-<br/>
+
 5. Consider the potential relationships between each entity and implement them into your diagram
 
 ## Requirements
