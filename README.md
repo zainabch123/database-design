@@ -5,7 +5,7 @@
 
 ## Business Case
 
-A local cinema wants to allow people to book tickets online to see movies that are being shown in its various screens. These tickets should be delivered to customers via email. The cinema want to keep a record of their customers and the tickets they purchase, as well as offer a regularly updated list of movies for them to choose from. A single screen might show multiple movies a day, and even the same movie at multiple times. The cinema will expand its number of screens in the future, so the potential for growth needs to be accounted for.
+A local cinema wants to allow people to book tickets online to see movies that are being shown in its various screens. These tickets should be delivered to customers via email. The cinema wants to keep a record of their customers and the tickets they purchase, as well as offer a regularly updated list of movies for them to choose from. A single screen might show multiple movies a day, and even the same movie at multiple times. The cinema will expand its number of screens in the future, so the potential for growth needs to be accounted for.
 
 ## Instructions
 1. Using the business case above, extract as many user stories as you can. Some have already been done for you below these instructions.
@@ -25,6 +25,14 @@ A local cinema wants to allow people to book tickets online to see movies that a
 - You should have *at least* 6 entities in your finished diagram
 - Each entity should have *at least* the minimum required attributes
 - Each entity should have the appropriate relations
+
+## Delivery
+
+Fork this repository, clone the fork to your machine and add your diagram as an image. It doesn't matter which tool you use to design the diagram but It's recommended to use [Whimsical](https://whimsical.com/) with the Flow Chart template and table shapes provided in that template. Here are some other options:
+
+- [diagrams.net (formerly draw.io)](https://app.diagrams.net/)
+- [lucidchart.com](https://www.lucidchart.com/)
+- Pen and paper
 
 # Examples
 
@@ -48,7 +56,7 @@ Let's use that user story we extracted above:
 
 At first glance, there are two obvious candidates for entities: *Customers* and *Tickets*. This is enough information for us to start creating our diagram - we don't need to worry about relationships at this point.
 
-Let’s then consider a scenario where a customer is booking a viewing as a gift for her husband; she wants the ticket to be in his name, but wants to provide her own contact information so she can surprise him. Does it make sense that the Customer should have a name of "John Smith" but the email address on that entity refers to "jane.smith@gmail.com"?
+Let’s then consider a scenario where a customer is booking a ticket as a gift for her husband; she wants the ticket to be in his name, but wants to provide her own contact information so she can surprise him. Does it make sense that the Customer should have a name of "John Smith" but the email address on that entity refers to "jane.smith@gmail.com"?
 
 With this, we can see a third entity has made itself visible: *Contact*. From this one user story, we've extracted three entities!
 
