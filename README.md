@@ -28,11 +28,14 @@ A local cinema wants to allow people to book tickets online to see movies that a
 
 ## Delivery
 
-Fork this repository, clone the fork to your machine and add your diagram as an image. It doesn't matter which tool you use to design the diagram but It's recommended to use [Whimsical](https://whimsical.com/) with the Flow Chart template and table shapes provided in that template. Here are some other options:
+1. Fork this repository and clone the fork to your machine.
+2. Add your user stories to [user-stories.md](./user-stories.md).
+2. Add a picture of your diagram.
+    1. It doesn't matter which tool you use to design the diagram but It's recommended to use [Whimsical](https://whimsical.com/) with the Flow Chart template and table shapes provided in that template. Here are some other options:
 
-- [diagrams.net (formerly draw.io)](https://app.diagrams.net/)
-- [lucidchart.com](https://www.lucidchart.com/)
-- Pen and paper
+    2. [diagrams.net (formerly draw.io)](https://app.diagrams.net/)
+    3. [lucidchart.com](https://www.lucidchart.com/)
+    4. Pen and paper
 
 # Examples
 
