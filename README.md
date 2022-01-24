@@ -40,7 +40,7 @@ A local cinema wants to allow people to book tickets online to see movies that a
 
 # Examples
 
-## Extracting user stories from the business case
+## Extracting user stories from the epic
 
 Let's consider the first two sentences from the point of view of a customer:
 
