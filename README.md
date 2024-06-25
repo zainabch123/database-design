@@ -31,12 +31,13 @@ A local cinema wants to allow people to book tickets online to see movies that a
 
 1. Fork this repository and clone the fork to your machine.
 2. Add your user stories to [user-stories.md](./user-stories.md).
-2. Add a picture of your diagram.
-    1. It doesn't matter which tool you use to design the diagram but It's recommended to use [Whimsical](https://whimsical.com/) with the Flow Chart template and table shapes provided in that template. Here are some other options:
-
-    2. [diagrams.net (formerly draw.io)](https://app.diagrams.net/)
-    3. [lucidchart.com](https://www.lucidchart.com/)
-    4. Pen and paper
+2. Add a picture of your diagram. You can use whichever tool you like, here are some examples:
+    1. [Miro](https://miro.com/) with the Entity Relationship Diagram template
+    2. [Whimsical](https://whimsical.com/) with the Flow Chart template and table shapes provided in that template
+    3. [diagrams.net (formerly draw.io)](https://app.diagrams.net/)
+    4. [lucidchart.com](https://www.lucidchart.com/)
+    5. [gleek.io](https://gleek.io/) which uses a more code-like approach to building diagrams
+    6. Pen and paper
 
 # Examples
 
